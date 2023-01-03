@@ -2,8 +2,8 @@
 Operating System (2022 Fall)
 
 Pintos Project
-Project 1
- - System call(1)
+ - Project 1
+System call(1)
 Project 2
  - System call(2)
 Project 3
